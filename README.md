@@ -16,7 +16,6 @@ El portal incluye:
 - Organización del contenido por categorías
 - Secciones temáticas
 - Buscador interno
-- Diseño responsivo para móviles y ordenadores
 
 ---
 
