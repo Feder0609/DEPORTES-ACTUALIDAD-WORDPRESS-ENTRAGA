@@ -26,7 +26,7 @@ Para crear el portal seguí estos pasos:
 
 ### 1. Instalación del entorno LAMP
 - **Apache** como servidor web  
-- **MySQL/MariaDB** como base de datos  
+- **MySQL** como base de datos  
 - **PHP** para ejecutar WordPress  
 
 ### 2. Instalación de WordPress
