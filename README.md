@@ -5,7 +5,7 @@ El objetivo principal es proporcionar un sitio actualizado, organizado y fácil 
 
 ---
 
-## 📝 Descripción del proyecto
+##  Descripción del proyecto
 
 Este proyecto forma parte de la práctica de **Instalación y Configuración de WordPress**.  
 He desarrollado un sitio web llamado **Deportes Actualidad**, pensado para reunir noticias deportivas de forma clara y accesible.
