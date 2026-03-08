@@ -53,9 +53,10 @@ Algunas de las categorías creadas son:
 
 - **Fútbol**
 - **Baloncesto**
-- **Tenis**
+- **Volley**
 - **Noticias generales**
 - **Opinión / Artículos destacados**
+- **Secciones de Noticias**
 
 También publiqué varias entradas de prueba con:
 
@@ -64,8 +65,6 @@ También publiqué varias entradas de prueba con:
 - Imagen destacada
 - Etiquetas
 - Categorías
-
-Esto permite simular el funcionamiento real de un portal de noticias.
 
 ---
 
@@ -79,14 +78,24 @@ Acceso directo a las secciones principales del portal.
 ### ✔️ Página de inicio personalizada
 Con artículos recientes, secciones destacadas y estructura tipo revista.
 
+### ✔️ Pàgina de Portada
+
+### ✔️ Pàgina de Contacte
+
+### ✔️ Un mapa interactiu
+
+### ✔️ Multilingüismeç
+
+### ✔️ Extensions i Widgets
+
+### ✔️ Personalització CSS
+
 ### ✔️ Publicación y gestión de entradas
 Creación de posts desde el panel de administración con imágenes, texto y categorías.
 
 ### ✔️ Buscador interno
 Permite localizar artículos rápidamente.
 
-### ✔️ Diseño responsivo
-Probado en ordenador, móvil y tablet para asegurar una experiencia fluida.
 
 ---
 
@@ -96,28 +105,9 @@ Probado en ordenador, móvil y tablet para asegurar una experiencia fluida.
 
 Ejemplo:
 
-```markdown
-![Página de inicio](captures/inicio.png)
-![Categorías deportivas](captures/categorias.png)
-![Entrada de ejemplo](captures/post-ejemplo.png)
 🔗 Enlace al portal
 URL del sitio: http://wordpress.local
-(En caso de publicarlo online, sustituir por el enlace real)
 
-📣 Demostración en directo
-Para la presentación al profesor, se recomienda mostrar:
-
-Página de inicio y explicación del objetivo del portal.
-
-Menú de navegación y recorrido por las categorías.
-
-Entradas publicadas y cómo se gestionan desde WordPress.
-
-Buscador funcionando.
-
-Panel de administración: creación de entradas, categorías y ajustes básicos.
-
-Comprobación del diseño responsivo cambiando entre vista móvil y escritorio.
 
 📌 Información adicional
 Tecnología utilizada: WordPress sobre LAMP
