@@ -96,8 +96,8 @@ El sitio web incluye las siguientes funcionalidades:
 ---
 
 ## Capturas de pantalla
-![Pagina](idioma.png)
-![Idioma](URL de la imatge)
+![Paginaa](URL de la imatge)
+![Idioma](idioma.png)
 ![Mapa](URL de la imatge)
 Ejemplo:
 
