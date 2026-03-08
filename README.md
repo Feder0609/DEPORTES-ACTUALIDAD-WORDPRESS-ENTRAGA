@@ -20,7 +20,7 @@ El portal incluye:
 
 ---
 
-## ⚙️ Instalación y configuración
+##  Instalación y configuración
 
 Para crear el portal seguí estos pasos:
 
@@ -46,7 +46,7 @@ Elegí un tema visual adecuado para un portal de noticias y lo personalicé modi
 
 ---
 
-## 📂 Organización del contenido
+##  Organización del contenido
 
 El contenido del portal está organizado en varias categorías deportivas para facilitar la navegación.  
 Algunas de las categorías creadas son:
@@ -68,15 +68,13 @@ También publiqué varias entradas de prueba con:
 
 ---
 
-## 🔧 Funcionalidades implementadas
+##  Funcionalidades implementadas
 
 El sitio web incluye las siguientes funcionalidades:
 
 ### ✔️ Menú principal de navegación
-Acceso directo a las secciones principales del portal.
 
 ### ✔️ Página de inicio personalizada
-Con artículos recientes, secciones destacadas y estructura tipo revista.
 
 ### ✔️ Pàgina de Portada
 
@@ -91,25 +89,22 @@ Con artículos recientes, secciones destacadas y estructura tipo revista.
 ### ✔️ Personalització CSS
 
 ### ✔️ Publicación y gestión de entradas
-Creación de posts desde el panel de administración con imágenes, texto y categorías.
 
 ### ✔️ Buscador interno
-Permite localizar artículos rápidamente.
 
 
 ---
 
-## 🖼️ Capturas de pantalla
+## Capturas de pantalla
 
-(Agrega aquí tus imágenes cuando las subas al repositorio)
 
 Ejemplo:
 
-🔗 Enlace al portal
+ Enlace al portal
 URL del sitio: http://wordpress.local
 
 
-📌 Información adicional
+ Información adicional
 Tecnología utilizada: WordPress sobre LAMP
 
 Tipo de proyecto: Portal de noticias deportivas
