@@ -16,6 +16,7 @@ El portal incluye:
 - Organización del contenido por categorías
 - Secciones temáticas
 - Buscador interno
+- Mapa
 
 ---
 
